@@ -1,4 +1,4 @@
-# disease_website_scrapping.
+# disease_website_scrapping
 ## Guide to run application
 
 #### Command to install all python dependencies:
